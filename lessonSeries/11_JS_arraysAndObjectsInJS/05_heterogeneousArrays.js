@@ -1,0 +1,1 @@
+var myArray = [8, false, "cake", 6, 3, true, "believer"];

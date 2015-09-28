@@ -1,0 +1,1 @@
+var user = prompt("Do you want a sandwich?").toUpperCase();
