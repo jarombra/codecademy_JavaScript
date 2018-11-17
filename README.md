@@ -1,2 +1,2 @@
 # codecademy_JavaScript
-All of Codecademy's JavaScript lesson solutions in one repository
+All of my solutions for Codecademy's JavaScript lessons in one repository
